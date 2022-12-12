@@ -1,0 +1,236 @@
+* {
+    box-sizing: border-box;
+    
+}
+header {
+    background-image: linear-gradient( to right,#413f3f, #5c5a5a, #706d6d,#9e9d9d );
+}
+html,
+body {
+    width: auto;
+    height: auto;
+    justify-content: space-between;
+    align-items: center;
+    
+    font-family: Arial, Tahoma, sans-serif;
+    background-image: linear-gradient( to right,#413f3f, #5c5a5a, #706d6d,#9e9d9d );
+}
+.header_master{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient( to right,#413f3f, #5c5a5a, #706d6d,#9e9d9d );
+    width: auto;
+    height: auto;
+}
+
+.subheader_master{
+    width: auto;
+    border-radius: 4px;
+    border-color: #c9c7c7;
+    border-width: 4px;
+    border-style: solid;
+    display: flex;
+    justify-content: space-between;
+    height: 65px;
+   
+    padding: 20px;
+   
+}
+
+.caixa2{
+    border-radius: 4px;
+    border-color: coral(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: coral;
+    display: flex;
+    align-items: center;
+    
+}
+
+.caixa3{
+    border-radius: 4px;
+    border-color:#ECEC30(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: #ECEC30;
+    display: flex;
+    align-items: center;
+}
+
+.caixa4{
+    border-radius: 4px;
+    border-color: #236C23(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: #236C23;
+    display: flex;
+    align-items: center;
+}
+
+.caixa5{
+    border-radius: 4px;
+    border-color: #60609F(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: #60609F;
+    display: flex;
+    align-items: center;
+}
+
+.caixa6{
+    border-radius: 4px;
+    border-color: #6B3C8b(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: #6B3C8A;
+    display: flex;
+    align-items: center;
+}
+
+.caixa1{
+    border-radius: 4px;
+    border-color: #CC4F4F(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color:#CC4F4F;
+    display: flex;
+    align-items: center;
+}
+
+.geekzando{
+    margin-top: 5%;
+    background-color: coral;
+    height: 10%;
+    display: flex;
+    align-items: center;
+}
+
+.geekzando_post{
+    width: 100%;
+    height: 70%;
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.geekzando_direita{
+    width: 40%;
+    
+}
+
+.geekzando_esquerda{
+    width: 40%;
+}
+
+.filme{
+    margin-top: 5%;
+    background-color: #ECEC30;
+    height: 10%;
+    display: flex;
+    align-items: center;
+}
+
+.filme_post{
+    width: 100%;
+    height: 70%;
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.filme_direita{
+    width: 40%;align-items: center;
+    
+ 
+}
+.filme_esquerda{
+    
+    width: 40%;align-items: center;
+    justify-content: center;
+    
+
+}
+.filme_post2{
+    width: 50%;
+    height: 70%;
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+    
+ 
+}
+
+.filme_esquerda2{
+    width: 74%;
+    align-items: center;
+    
+    
+}
+
+.oriental{
+    margin-top: 5%;
+    background-color:  #236C23;
+    height: 10%;
+    display: flex;
+    align-items: center;
+}
+.oriental_post{
+    width: 100%;
+    height: 70%;
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.ori_direita{
+    width: 40%;align-items: center;
+}
+.ori_esquerda{
+    width: 40%;align-items: center;
+}
+
+.popzando{
+    margin-top: 5%;
+    background-color:  #60609F;
+    height: 10%;
+    display: flex;
+    align-items: center;
+}
+
+.popzando_post{
+    width: 100%;
+    height: 70%;
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.popzando_direita{
+    width: 40%;align-items: center;
+}
+
+.popzando_esquerda{
+    width: 40%;align-items: center;
+}
+
+.final{
+    background-color: #c1c1c1;
+    width: 100%;
+    height: 70%;
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.redes{
+
+    display: flex;
+    align-items: center;
+}
+
+a { color: inherit; } 

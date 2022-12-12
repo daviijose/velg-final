@@ -1,0 +1,142 @@
+* {
+    box-sizing: border-box;
+    
+}
+header {
+    background-image: linear-gradient( to right,#413f3f, #5c5a5a, #706d6d,#9e9d9d );
+}
+html,
+body {
+    width: auto;
+    height: auto;
+    justify-content: space-between;
+    align-items: center;
+    
+    font-family: Arial, Tahoma, sans-serif;
+    background-image: linear-gradient( to right,#413f3f, #5c5a5a, #706d6d,#9e9d9d );
+}
+.header_master{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: linear-gradient( to right,#413f3f, #5c5a5a, #706d6d,#9e9d9d );
+    width: auto;
+    height: auto;
+}
+
+.subheader_master{
+    width: auto;
+    border-radius: 4px;
+    border-color: #c9c7c7;
+    border-width: 4px;
+    border-style: solid;
+    display: flex;
+    justify-content: space-between;
+    height: 65px;
+   
+    padding: 20px;
+  
+    
+}
+
+.caixa2{
+    border-radius: 4px;
+    border-color: coral(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: coral;
+    display: flex;
+    align-items: center;
+    
+}
+
+.caixa3{
+    border-radius: 4px;
+    border-color:#ECEC30(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: #ECEC30;
+    display: flex;
+    align-items: center;
+}
+
+.caixa4{
+    border-radius: 4px;
+    border-color: #236C23(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: #236C23;
+    display: flex;
+    align-items: center;
+}
+
+.caixa5{
+    border-radius: 4px;
+    border-color: #60609F(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: #60609F;
+    display: flex;
+    align-items: center;
+}
+
+.caixa6{
+    border-radius: 4px;
+    border-color: #6B3C8b(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color: #6B3C8A;
+    display: flex;
+    align-items: center;
+}
+
+.caixa1{
+    border-radius: 4px;
+    border-color: #CC4F4F(61, 61, 61);
+    border-width: 3px;
+    border-style: solid;
+    background-color:#CC4F4F;
+    display: flex;
+    align-items: center;
+}
+
+.oriental{
+    margin-top: 5%;
+    background-color:  #236C23;
+    height: 10%;
+    display: flex;
+    align-items: center;}
+
+    .oriental_post{
+        margin-top: 3%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        height: auto;
+        text-align: center;
+    }
+
+.texto{
+    text-align: justify;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.final{
+    background-color: #c1c1c1;
+    width: 100%;
+    height: 70%;
+    margin-top: 3%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.redes{
+
+    display: flex;
+    align-items: center;
+}
+a { color: inherit; } 
